@@ -52,6 +52,7 @@ Add the flour a cup at a time. Add the chocolate chips after adding the last cup
 - Bake until the tops of the cookies start to crack and the sides start to brown, usually 8 to 10 minutes.
 - Take the cookies out of the oven and leave on the cookie sheet until the sheet is cool enough to hold. This lets the cookies cook a little bit more.
 - Transfer to a wire rack, and let cool completely.
+- Ensure that the sheet is cooled before placing the next set of cookies on it. 
 
 ##Storage Directions
-- Store cookies in an airtight container at room temperature up to 1 week.
+- Store cookies in an airtight container at room temperature up to 1 week, if they last that long.
