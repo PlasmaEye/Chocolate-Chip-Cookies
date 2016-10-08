@@ -1,5 +1,5 @@
 # Chocolate-Chip-Cookies
-Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies"):
+Don't know where the base recipe came from. Maybe [AllRecipes.com](www.allrecipes.com). Improved (made more chewy) by using the tips from [__The Science of Good Cooking__](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982).
 
 ##How to own this recipe
 - Click "Fork" in the top right corner of the page and it's yours :)
@@ -11,41 +11,46 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - add, commit, push changes
 - create a pull request
 
-
-##Wet Ingredients
+##Ingredients
 - 1 cup (2 sticks) unsalted butter, room temperature
 - 1/2 cup granulated sugar
-- 1 cup packed light-brown sugar
-- 1 teaspoon salt
-- 2 teaspoons pure vanilla extract
-- 2 large eggs
+- 1 1/3 cup packed light-brown sugar
+- 2 teaspoons vanilla (preferably Mexican)
+- 2 eggs
+- 1 teaspoon Baking Powder
+- 1 teaspoon Baking Soda
+- 1 teaspoon Salt
+- 3 cups Flour
+- 6 ounces semi-sweet chocolate chips (half-bag)
 
+###Cream Together
+- 1 cup (2 sticks) unsalted butter, room temperature
+- 1/2 cup granulated sugar
+- 1 1/3 cup packed light-brown sugar
+After mixing, let sit for at least 5 minutes to let the sugars dissolve in the butter.
 
-##Dry Ingredients
-- 2 1/4 cups all-purpose flour
-- 1/2 teaspoon baking soda
-- 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
-- Walnuts
-- Lots of Gluten
-- dog hair
+###Mix In
+- 2 teaspoons vanilla (preferably Mexican)
+- 2 eggs
+Mix until slightly fluffy.
 
+###Combine
+- 1 teaspoon Baking Soda
+- 1 teaspoon Baking Powder
+- 1 teaspoon Salt
+- 1 cup Flour
+Stir together then add to existing mixture.
 
+###Mix In
+- 2 cups Flour
+- 6 ounces semi-sweet chocolate chips
+Add the flour a cup at a time. Add the chocolate chips after adding the last cup of flour and before blending. This keeps the chocolate chips from clumping at the bottom of the bowl.
 
-##Cooking Directions
+##Baking Directions
 - Preheat oven to 350 degrees.
-- In a small bowl, whisk together the flour and baking soda; set aside.
-- In the bowl of an electric mixer fitted with the paddle attachment, combine
-  the butter with both sugars; beat on medium speed until light and fluffy.
-- Reduce speed to low; add the salt, vanilla, and eggs. Beat until well mixed,
-  about 1 minute.
-- Add flour mixture; mix until just combined.
-- Stir in the chocolate chips.
-
-- Drop heaping tablespoon-size balls of dough about 2 inches apart on baking
-  sheets lined with parchment paper.
-- Bake until cookies are golden around the edges, but still soft in the center,
-  8 to 10 minutes.
-- Remove from oven, and let cool on baking sheet 1 to 2 minutes.
+- Roll the dough into balls about the size of a golf ball and place on a cookie sheet. Space the balls about 2 inches apart.
+- Bake until the tops of the cookies start to crack and the sides start to brown, usually 8 to 10 minutes.
+- Take the cookies out of the oven and leave on the cookie sheet until the sheet is cool enough to hold. This lets the cookies cook a little bit more.
 - Transfer to a wire rack, and let cool completely.
 
 ##Storage Directions
