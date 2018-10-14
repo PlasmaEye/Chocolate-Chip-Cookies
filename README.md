@@ -12,21 +12,21 @@ Don't know where the base recipe came from. Maybe [AllRecipes.com](www.allrecipe
 - create a pull request
 
 ## Ingredients
-- 1 cup (2 sticks) unsalted butter, room temperature
-- 1/2 cup granulated sugar
-- 1 1/3 cup packed light-brown sugar
+- 226g (2 sticks) unsalted butter, room temperature
+- 110g granulated sugar
+- 324g cup packed light-brown sugar
 - 2 teaspoons vanilla (preferably Mexican)
 - 2 eggs
 - 1 teaspoon Baking Powder
 - 1 teaspoon Baking Soda
 - 1 teaspoon Salt
-- 3 cups Flour
+- 476g Flour
 - 6 ounces semi-sweet chocolate chips (half-bag)
 
 ### Cream Together
-- 1 cup (2 sticks) unsalted butter, room temperature
-- 1/2 cup granulated sugar
-- 1 1/3 cup packed light-brown sugar
+- 226g (2 sticks) unsalted butter, room temperature
+- 110g granulated sugar
+- 324g cup packed light-brown sugar
 After mixing, let sit for at least 5 minutes to let the sugars dissolve in the butter.
 
 ### Mix In
@@ -38,19 +38,19 @@ Mix until slightly fluffy.
 - 1 teaspoon Baking Soda
 - 1 teaspoon Baking Powder
 - 1 teaspoon Salt
-- 1 cup Flour
+- 150g Flour
 Stir together then add to existing mixture.
 
 ### Mix In
-- 2 cups Flour
+- 326g Flour
 - 6 ounces semi-sweet chocolate chips
-Add the flour a cup at a time. Add the chocolate chips after adding the last cup of flour and before blending. This keeps the chocolate chips from clumping at the bottom of the bowl.
+Add the flour a little bit at a time. When about half of the flour is left add the chocolate chips to the flour and mix a little bit before adding the flour/chips mixture to the dough. This keeps the chocolate chips from clumping at the bottom of the bowl.
 
 ## Baking Directions
-- Preheat oven to 350 degrees.
-- Roll the dough into balls about the size of a golf ball and place on a cookie sheet. Space the balls about 2 inches apart.
-- Bake until the tops of the cookies start to crack and the sides start to brown, usually 8 to 10 minutes.
-- Take the cookies out of the oven and leave on the cookie sheet until the sheet is cool enough to hold. This lets the cookies cook a little bit more.
+- Preheat oven to 325 degrees.
+- Roll the dough into balls a little smaller than a golf ball and place on a cookie sheet. Space the balls about 2 inches apart.
+- Bake until the tops of the cookies start to crack and the sides start to brown, usually around 12 minutes.
+- Take the cookies out of the oven and leave on the cookie sheet until the sheet is cool enough to hold. This lets the cookies bake a little bit more.
 - Transfer to a wire rack, and let cool completely.
 - Ensure that the sheet is cooled before placing the next set of cookies on it. 
 
