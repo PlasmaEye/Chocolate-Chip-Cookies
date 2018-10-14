@@ -23,15 +23,19 @@ Don't know where the base recipe came from. Maybe [AllRecipes.com](www.allrecipe
 - 476g Flour
 - 6 ounces semi-sweet chocolate chips (half-bag)
 
+## Mixing Instructions
+
 ### Cream Together
 - 226g (2 sticks) unsalted butter, room temperature
 - 110g granulated sugar
 - 324g cup packed light-brown sugar
+
 After mixing, let sit for at least 5 minutes to let the sugars dissolve in the butter.
 
 ### Mix In
 - 2 teaspoons vanilla (preferably Mexican)
 - 2 eggs
+
 Mix until slightly fluffy.
 
 ### Combine
@@ -39,14 +43,16 @@ Mix until slightly fluffy.
 - 1 teaspoon Baking Powder
 - 1 teaspoon Salt
 - 150g Flour
+
 Stir together then add to existing mixture.
 
 ### Mix In
 - 326g Flour
 - 6 ounces semi-sweet chocolate chips
+
 Add the flour a little bit at a time. When about half of the flour is left add the chocolate chips to the flour and mix a little bit before adding the flour/chips mixture to the dough. This keeps the chocolate chips from clumping at the bottom of the bowl.
 
-## Baking Directions
+## Baking Instructions
 - Preheat oven to 325 degrees.
 - Roll the dough into balls a little smaller than a golf ball and place on a cookie sheet. Space the balls about 2 inches apart.
 - Bake until the tops of the cookies start to crack and the sides start to brown, usually around 12 minutes.
