@@ -14,7 +14,7 @@ Don't know where the base recipe came from. Maybe [AllRecipes.com](www.allrecipe
 ## Ingredients
 - 226g (2 sticks) unsalted butter, room temperature
 - 110g granulated sugar
-- 324g cup packed light-brown sugar
+- 324g light-brown sugar
 - 2 teaspoons vanilla (preferably Mexican)
 - 2 eggs
 - 1 teaspoon Baking Powder
@@ -28,7 +28,7 @@ Don't know where the base recipe came from. Maybe [AllRecipes.com](www.allrecipe
 ### Cream Together
 - 226g (2 sticks) unsalted butter, room temperature
 - 110g granulated sugar
-- 324g cup packed light-brown sugar
+- 324g light-brown sugar
 
 After mixing, let sit for at least 5 minutes to let the sugars dissolve in the butter.
 
